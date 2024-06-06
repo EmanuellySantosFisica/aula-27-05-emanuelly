@@ -18,11 +18,11 @@
 				position: absolute; 
 				top: 700px;
 			#nav{
-				background-color: blue;
+				background-color: red;
 				box-shadow: 7px 7px 9px 0px black;
 			}
 			#main{
-				background-color: pink; 
+				background-color: orange; 
 			}
 				
 			#nome{
@@ -35,22 +35,22 @@
 				text-align: center;
 			}
 			#tres{
-				background-color: grey; 
-			}
-			#meio{
 				background-color: yellow; 
 			}
+			#meio{
+				background-color: red; 
+			}
 			#um{
-				background-color: grey; 
+				background-color: orange; 
 			}
 			#dois{
-				background-color: turquoise; 
+				background-color: yellow; 
 			}
 			#quatro{
 				background-color: red; 
 			}
 			#footer{
-				background-color: grey; 
+				background-color: orange; 
            			font-size: 25px;
 				text-align: center;
 			}
