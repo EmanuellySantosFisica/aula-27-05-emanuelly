@@ -16,8 +16,11 @@
 			}
 			#img{
 				background-color: grey;
-				width: 320px;
-				height: 205px;
+				width:320px;
+				height:205px;
+				right: 1500px;
+				position: absolute; 
+				top: 700px;
 			#nav{
 				background-color: blue;
 				box-shadow: 7px 7px 9px 0px black;
