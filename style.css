@@ -8,10 +8,10 @@
 				font-size: 17px;
 				text-align: center;
 			}
-			#Body{
+			body{
 				background-color: white; 
 			}
-			#Header{
+			header{
 				background-color: white; 
 			}
 			#img{
