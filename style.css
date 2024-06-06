@@ -1,5 +1,5 @@
 
-			.nome1{
+			.nome{
 				font-weight: bold;	
 				font-size: 17px;
 				text-align: center;
@@ -14,7 +14,7 @@
 			#Header{
 				background-color: white; 
 			}
-			img{
+			#img{
 				background-color: grey;
 				width: 320px;
 				height: 205px;
