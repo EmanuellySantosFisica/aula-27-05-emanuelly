@@ -9,13 +9,13 @@
 				text-align: center;
 			}
 			#body{
-				background-color: white; 
+				background-color: grey; 
 			}
 			#header{
-				background-color: white; 
+				background-color: grey; 
 			}
 			#img{
-				background-color: white;
+				background-color: grey;
 				width:320px;
 				height:205px;
 				right: 1500px;
@@ -26,13 +26,13 @@
 				box-shadow: 7px 7px 9px 0px black;
 			}
 			#main{
-				background-color: white; 
+				background-color: pink; 
 			}
 			#tres{
 				background-color: grey; 
 			}
 			#meio{
-				background-color: white; 
+				background-color: yellow; 
 			}
 			#um{
 				background-color: grey; 
@@ -41,7 +41,7 @@
 				background-color: turquoise; 
 			}
 			#quatro{
-				background-color: white; 
+				background-color: red; 
 			}
 			#footer{
 				background-color: grey; 
